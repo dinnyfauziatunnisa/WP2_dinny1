@@ -1,0 +1,11 @@
+<?php
+class contoh1 extends CI_Controller
+{
+ Public function index()
+ {
+ echo "<h1> Perkenalkan</h1>";
+ echo "Nama saya Dinny Fauziatunnisa
+ saya tinggal di daerah Cilendek
+ hobi yang saya sukai adalah menyanyi";
+ }
+}
